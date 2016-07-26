@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/cole/Downloads/SuperAsteroids/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/cole/Downloads/SuperAsteroids/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/cole/Downloads/SuperAsteroids/app/build/intermediates/res/merged/debug/anim/slide_out_left.xml",
+        "source": "/home/cole/Downloads/SuperAsteroids/app/src/main/res/anim/slide_out_left.xml"
+    },
+    {
+        "merged": "/home/cole/Downloads/SuperAsteroids/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/cole/Downloads/SuperAsteroids/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/cole/Downloads/SuperAsteroids/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/cole/Downloads/SuperAsteroids/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/cole/Downloads/SuperAsteroids/app/build/intermediates/res/merged/debug/anim/slide_in_right.xml",
+        "source": "/home/cole/Downloads/SuperAsteroids/app/src/main/res/anim/slide_in_right.xml"
+    },
+    {
+        "merged": "/home/cole/Downloads/SuperAsteroids/app/build/intermediates/res/merged/debug/anim/slide_out_down.xml",
+        "source": "/home/cole/Downloads/SuperAsteroids/app/src/main/res/anim/slide_out_down.xml"
+    },
+    {
+        "merged": "/home/cole/Downloads/SuperAsteroids/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/cole/Downloads/SuperAsteroids/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/cole/Downloads/SuperAsteroids/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/cole/Downloads/SuperAsteroids/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/cole/Downloads/SuperAsteroids/app/build/intermediates/res/merged/debug/anim/slide_in_up.xml",
+        "source": "/home/cole/Downloads/SuperAsteroids/app/src/main/res/anim/slide_in_up.xml"
+    },
+    {
+        "merged": "/home/cole/Downloads/SuperAsteroids/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/cole/Downloads/SuperAsteroids/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/anim/abc_fade_out.xml"
+    }
+]

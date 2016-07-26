@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/cole/Downloads/SuperAsteroids/app/build/intermediates/res/merged/debug/layout-xlarge-v4/fragment_import.xml",
+        "source": "/home/cole/Downloads/SuperAsteroids/app/src/main/res/layout-xlarge/fragment_import.xml"
+    },
+    {
+        "merged": "/home/cole/Downloads/SuperAsteroids/app/build/intermediates/res/merged/debug/layout-xlarge-v4/row_import_file.xml",
+        "source": "/home/cole/Downloads/SuperAsteroids/app/src/main/res/layout-xlarge/row_import_file.xml"
+    },
+    {
+        "merged": "/home/cole/Downloads/SuperAsteroids/app/build/intermediates/res/merged/debug/layout-xlarge-v4/fragment_main.xml",
+        "source": "/home/cole/Downloads/SuperAsteroids/app/src/main/res/layout-xlarge/fragment_main.xml"
+    }
+]
